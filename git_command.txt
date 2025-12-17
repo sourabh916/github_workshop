@@ -1,0 +1,15 @@
+git init
+git status
+git addd test.py
+git add testing.python
+git status
+git commit -m "added testing,py file"
+0git status
+rm testing.py
+git status
+restore testing.py
+git restore testing.py
+git status
+git commit -m "adding testing.py file again"
+git status
+git history
